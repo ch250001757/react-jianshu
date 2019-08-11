@@ -10,6 +10,6 @@ npx create-react-app my-app
 
 ```
 yarn add styled-components -S 
-让样式不会污染到全局,组件中使用 在用reset.css进行项目初始化
+让样式不会污染到全局,让样式引入到某个组件中使用 在用reset.css进行项目初始化
 ```
 

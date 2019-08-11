@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import '../src/static/iconfont/iconfont.css'
 
 //PWA 渐进性web应用,
 //支持https,当用户第一次反问需要网,第二次没网 也可以看到
